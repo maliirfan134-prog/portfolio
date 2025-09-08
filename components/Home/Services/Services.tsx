@@ -12,7 +12,7 @@ const Services = () => {
             description="Designing interfaces that are intuitive, efficient, and enjoyable to use." />
           </div>
           <div>
-            <ServiceCard icon="/images/s2.png"
+            <ServiceCard icon="/images/s2.PNG"
             name="Design & Creative" 
             description="Designing interfaces that are intuitive, efficient, and enjoyable to use." />
           </div>

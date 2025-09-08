@@ -15,7 +15,7 @@ const Hero = () => {
             <h1 className='text-2xl sm:text-4xl md:text-5xl lg:text-6xl mt-6 text-center font-bold tracking-wide'>Creating web products, <br /> brands <span className='text-cyan-200'> and experiences.</span> 
             </h1>
             <h2 className='mt-5 text-sm px-2 text-center sm:text-2xlfont-medium flex items-center'>
-                Hi! I'm Muhammad Ali Irfan - A Passionate
+                Hi! I&apos;m Muhammad Ali Irfan - A Passionate
                 <span className='text-cyan-200 font-bold'>
                     <Typewriter options={{
                         strings : [
